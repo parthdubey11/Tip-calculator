@@ -1,1 +1,1 @@
-# Tip-calculator
+A simple and user-friendly Tip Calculator Android application built using Java in Android Studio. This app helps users calculate the tip amount and total bill effortlessly based on the entered bill amount and selected tip percentage.
